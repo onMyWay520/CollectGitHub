@@ -4,7 +4,7 @@
 [vvongchy / -Computer-Basics-Notes](https://github.com/vvongchy/-Computer-Basics-Notes)<br>
 计算机组成原理、计算机网络、数据结构、操作系统思维导图<br>
 # OC相关
-## * 三方库
+## 三方库
 [Book-Recommend-Github](https://github.com/iOShuyang/Book-Recommend-Github)<br>
 推荐生活当中积累的Objective-C以及Swift优秀三方库<br>
 [JSPatch](https://github.com/bang590/JSPatch)热修复<br>
@@ -20,7 +20,7 @@
 [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)照片查看器<br>
 [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)<br>
 [realm-cocoa](https://github.com/realm/realm-cocoa)Realm is a mobile database: a replacement for Core Data & SQLite<br>
-## * DEMO<br>
+## DEMO<br>
  [sshiqiao](https://github.com/sshiqiao)/[douyin-ios-objectc](https://github.com/sshiqiao/douyin-ios-objectc)仿抖音app<br>
 [LZEasemob3](https://github.com/nacker/LZEasemob3)  高仿微信| WeChat | 高仿朋友圈<br>
 [UniversalProject](https://github.com/XuYang8026/UniversalProject)   <br>
@@ -81,12 +81,12 @@ Based on Objective-C implementation of the framework design, YTKNetwork network 
 [NonBaseClass-MVVM-ReactiveObjc](https://github.com/madaoCN/NonBaseClass-MVVM-ReactiveObjc)<br>
 [Coding-iOS](https://github.com/Coding/Coding-iOS)<br>
 CODING iOS 客户端源代码<br>
-## * 设计模式<br>
+## 设计模式<br>
 [object-oriented-design](https://github.com/knightsj/object-oriented-design)<br>
 面向对象设计的设计原则和设计模式<br>
 [Design-Pattern-For-iOS](https://github.com/huang303513/Design-Pattern-For-iOS)<br>
 IOS设计模式探索(大话设计模式)<br>
-## *组件化<br>
+## 组件化<br>
 [MTRouter](https://github.com/MrTung/MTRouter)<br>
 iOS模块化构建方案，模块间解耦，路由中心设计方案<br>
 [BeeHive](https://github.com/alibaba/BeeHive) <br>
@@ -106,6 +106,14 @@ Efficiency improvement for iOS&Android modular development.<br>
 工程中会包含一些iOS面试中的算法和数据结构相关题目，通过objective c来实现，目前只有链表和二叉树的部分！<br>
 [iOSInterviewsAndDevNotes](https://github.com/DevDragonLi/iOSInterviewsAndDevNotes)<br>
 收集包含阿里，腾讯，美团等大厂的面试题，含金量很高<br>
+[《招聘一个靠谱的iOS》面试题参考答案（上）](https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/01《招聘一个靠谱的iOS》面试题参考答案/《招聘一个靠谱的iOS》面试题参考答案（上）.md)<br>
+[《招聘一个靠谱的iOS》面试题参考答案（下）](https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/01《招聘一个靠谱的iOS》面试题参考答案/《招聘一个靠谱的iOS》面试题参考答案（下）.md)<br>
+[icofans](https://github.com/icofans)/[iOS-Interview-Questions](https://github.com/icofans/iOS-Interview-Questions)<br>
+iOS面试题整理<br>
+[2020-逻辑教育iOS面试题集合](https://github.com/LGCooci/LGiOSQuestions)<br>
+[liberalisman](https://github.com/liberalisman)/[iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection)<br>
+数据结构及算法及iOS面试题整理<br>
+[iOS面试准备之思维导图](https://github.com/MisterBooo/ReadyForBAT)<br>
 ## 博客/文章 <br>
 [GoldHouse-for-iOS](https://github.com/BiBoyang/GoldHouse-for-iOS)<br>
 博客整理 <br>
@@ -133,6 +141,7 @@ Objective-C的编码规范<br>
 iOS 日常知识点的积累<br>
 [ChenYilong](https://github.com/ChenYilong)/[iOSBlog](https://github.com/ChenYilong/iOSBlog)<br>
 [https://github.com/SunshineBrother/JHBlog](https://github.com/SunshineBrother/JHBlog)<br>
+iOS底层原理详解，含金量很高<br>
 [LeoMobileDeveloper/Blogs](https://github.com/LeoMobileDeveloper/Blogs)<br>
 [https://github.com/draveness/analyze](https://github.com/draveness/analyze)<br>
 # swift
