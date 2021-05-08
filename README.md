@@ -187,6 +187,8 @@ Swift基础知识大全,Swift学习从简单到复杂<br>
 中文版 Apple 官方 Swift 教程<br>
 [SwiftOldDriver](https://github.com/SwiftOldDriver)/[iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)<br>
 老司机 iOS 周报<br>
+[andyRon](https://github.com/andyRon)/[swift-algorithm-club-cn](https://github.com/andyRon/swift-algorithm-club-cn)<br>
+swift版的算法，兼容swift4<br>
 # RN
 [MeiTuan](https://github.com/huanxsd/MeiTuan)<br>
 MeiTuan App Write In latest React-Native(0.57.8)<br>
