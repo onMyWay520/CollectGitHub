@@ -353,3 +353,5 @@ Python3网络爬虫实战：VIP视频破解助手；GEETEST验证码破解；小
 # Git<br>
 [521xueweihan](https://github.com/521xueweihan)/[git-tips](https://github.com/521xueweihan/git-tips)<br>
 Git的奇技淫巧<br>
+# 团队github<br>
+[58同城](https://github.com/wuba)<br>
