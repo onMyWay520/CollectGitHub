@@ -202,7 +202,6 @@ React Native指南汇集了各类React-Native各类学习资源<br>
 React Native 研究与实践<br>
 [react-native-pushy](https://github.com/reactnativecn/react-native-pushy)<br>
 ReactNative中文网推出的代码热更新服务<br>
-## native学习资源、开源App和组件<br>
 [ReactNative-LiveTemplate](https://github.com/virtoolswebplayer/ReactNative-LiveTemplate)<br>
 [react-native-tabbar](https://github.com/territoryfan/react-native-tabbar)<br>
 [ReactNativeComponentDemos](https://github.com/cyqresig/ReactNativeComponentDemos)<br>
