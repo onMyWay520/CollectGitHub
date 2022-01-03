@@ -267,6 +267,8 @@ High quality pure Weex demo / 网易严选 App 感受 Weex 开发<br>
 MXFlutter 是一套使用 TypeScript/JavaScript 来开发 Flutter 应用的框架。<br>
 [flutter_ume](https://github.com/bytedance/flutter_ume)<br>
 Flutter 应用内调试工具平台<br>
+[shenghy](https://github.com/shenghy)/[flutter_shop](https://github.com/shenghy/flutter_shop)
+[技术胖flutter 视频](https://jspang.com/detailed?id=53)配套项目
 # 其他跨平台方案 <br>
 [samurai-native](https://github.com/hackers-painters/samurai-native)<br>
 # 非技术文章 <br>
