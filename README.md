@@ -268,7 +268,11 @@ MXFlutter 是一套使用 TypeScript/JavaScript 来开发 Flutter 应用的框�
 [flutter_ume](https://github.com/bytedance/flutter_ume)<br>
 Flutter 应用内调试工具平台<br>
 [shenghy](https://github.com/shenghy)/[flutter_shop](https://github.com/shenghy/flutter_shop)
-[技术胖flutter 视频](https://jspang.com/detailed?id=53)配套项目
+[技术胖flutter 视频](https://jspang.com/detailed?id=53)配套项目<br>
+[awesome-flutter](https://github.com/Solido/awesome-flutter)
+flutter 资料合集<br>
+[gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter)
+flutter开源项目<br>
 # 其他跨平台方案 <br>
 [samurai-native](https://github.com/hackers-painters/samurai-native)<br>
 # 非技术文章 <br>
