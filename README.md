@@ -21,6 +21,7 @@
 [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)<br>
 [realm-cocoa](https://github.com/realm/realm-cocoa)Realm is a mobile database: a replacement for Core Data & SQLite<br>
 [ZipArchive](https://github.com/ZipArchive)/[ZipArchive](https://github.com/ZipArchive/ZipArchive)解压文件相关的库<br>
+[TextureGroup](https://github.com/TextureGroup)/[Texture](https://github.com/TextureGroup/Texture) Facebook出品的性能优化方面相关的异步渲染框架，原名是AsyncDisplayKit<br>
 ## DEMO<br>
  [sshiqiao](https://github.com/sshiqiao)/[douyin-ios-objectc](https://github.com/sshiqiao/douyin-ios-objectc) OC版仿抖音app<br>
 [LZEasemob3](https://github.com/nacker/LZEasemob3)  高仿微信| WeChat | 高仿朋友圈<br>
