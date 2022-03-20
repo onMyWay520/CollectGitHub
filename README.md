@@ -13,7 +13,6 @@
 [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)tableView 高度自适应<br>
 [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa)<br>
 [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)底部tabBar<br>
-[AsyncDisplayKit](https://github.com/facebookarchive/AsyncDisplayKit)<br>
 [MBProgressHUD](https://github.com/jdg/MBProgressHUD)<br>
 [BlockHook](https://github.com/yulingtianxia/BlockHook)<br>
 [FLEX](https://github.com/Flipboard/FLEX)调试工具<br>
