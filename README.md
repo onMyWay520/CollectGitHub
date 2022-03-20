@@ -20,8 +20,9 @@
 [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)照片查看器<br>
 [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)<br>
 [realm-cocoa](https://github.com/realm/realm-cocoa)Realm is a mobile database: a replacement for Core Data & SQLite<br>
+[ZipArchive](https://github.com/ZipArchive)/[ZipArchive](https://github.com/ZipArchive/ZipArchive)解压文件相关的库<br>
 ## DEMO<br>
- [sshiqiao](https://github.com/sshiqiao)/[douyin-ios-objectc](https://github.com/sshiqiao/douyin-ios-objectc)仿抖音app<br>
+ [sshiqiao](https://github.com/sshiqiao)/[douyin-ios-objectc](https://github.com/sshiqiao/douyin-ios-objectc) OC版仿抖音app<br>
 [LZEasemob3](https://github.com/nacker/LZEasemob3)  高仿微信| WeChat | 高仿朋友圈<br>
 [UniversalProject](https://github.com/XuYang8026/UniversalProject)   <br>
 基于MVC架构的iOS轻量级框架，封装了基类、基于猿题库YTKNetwork的网络服务、工具库，NavigationController转场动画/瀑布流/粒子动画/小demo，已适配iOS11 & iPhone X。<br>
@@ -245,6 +246,8 @@ React Native的中文参考资料，包括开源库，文字/视频资料，相�
 [react-native-amap3d](https://github.com/qiuxiang/react-native-amap3d)<br>
 react-native 高德地图组件，使用最新 3D SDK，支持 Android + iOS<br>
 [react-native-search-bar](https://github.com/umhan35/react-native-search-bar)<br>
+[WclPropertyFinder](https://github.com/SpikeKing/WclPropertyFinder)<br>
+[beefe](https://github.com/beefe)/[react-native-actionsheet](https://github.com/beefe/react-native-actionsheet) RN版actionSheet <br>
 [WclPropertyFinder](https://github.com/SpikeKing/WclPropertyFinder)<br>
 React Native 实例 - 房产搜索App<br>
 # weex<br>
