@@ -191,18 +191,20 @@ Swift基础知识大全,Swift学习从简单到复杂<br>
 [andyRon](https://github.com/andyRon)/[swift-algorithm-club-cn](https://github.com/andyRon/swift-algorithm-club-cn)<br>
 swift版的算法，兼容swift4<br>
 # RN
+[react-native-guide](https://github.com/reactnativecn/react-native-guide) <br>
+React Native指南汇集了各类React-Native各类学习资源<br>
+[react-native-pushy](https://github.com/reactnativecn/react-native-pushy)<br>
+ReactNative中文网推出的代码热更新服务<br>
 [MeiTuan](https://github.com/huanxsd/MeiTuan)<br>
 MeiTuan App Write In latest React-Native(0.57.8)<br>
 [react-native](https://github.com/facebook/react-native) <br>
 A framework for building native apps with React.<br>
 [ReactNative_Shopping](https://github.com/JasonStu/ReactNative_Shopping) <br>
 电商类Reac Native App<br>
-[react-native-guide](https://github.com/reactnativecn/react-native-guide) <br>
-React Native指南汇集了各类React-Native各类学习资源<br>
+[RN-BiZhi](https://github.com/JasonStu/RN-BiZhi) <br>
+结合redux的RN项目 <br>
 [RNStudyNotes](https://github.com/crazycodeboy/RNStudyNotes)<br>
 React Native 研究与实践<br>
-[react-native-pushy](https://github.com/reactnativecn/react-native-pushy)<br>
-ReactNative中文网推出的代码热更新服务<br>
 [ReactNative-LiveTemplate](https://github.com/virtoolswebplayer/ReactNative-LiveTemplate)<br>
 [react-native-tabbar](https://github.com/territoryfan/react-native-tabbar)<br>
 [ReactNativeComponentDemos](https://github.com/cyqresig/ReactNativeComponentDemos)<br>
