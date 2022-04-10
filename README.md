@@ -155,10 +155,12 @@ iOS底层原理详解，含金量很高<br>
 [SwiftTips](https://github.com/JohnSundell/SwiftTips)<br>
 [U17](https://github.com/spicyShrimp/U17)<br>
 精仿有妖气漫画(Swift5)<br>
-[TodayNews](https://github.com/hrscy/TodayNews) <br>
+[TodayNews](https://github.com/hutmobile/iOS_YangMeng_TodayNews) <br>
 Swift4 - 今日头条<br>
 [RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation)<br>
 RxSwift 中文文档<br>
+[swift-style-guide](https://github.com/eure/swift-style-guide)<br>
+swift 代码规范
 [SwiftGuide](https://github.com/ipader/SwiftGuide)<br>
 Swift Featured Projects in brain Mapping<br>
 [RxSwift](https://github.com/ReactiveX/RxSwift)<br>
