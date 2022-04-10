@@ -282,6 +282,7 @@ flutter 资料合集<br>
 flutter开源项目<br>
 # 其他跨平台方案 <br>
 [samurai-native](https://github.com/hackers-painters/samurai-native)<br>
+[uni-app](https://github.com/dcloudio/uni-app)<br>
 # 非技术文章 <br>
 [article](https://github.com/amfe/article) 手机淘宝，电商<br>
 [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)<br>
