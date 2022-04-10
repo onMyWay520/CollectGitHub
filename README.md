@@ -152,11 +152,13 @@ iOS底层原理详解，含金量很高<br>
 [Swift-DEMO](https://github.com/1170197998/Swift-DEMO)<br>
 [swift](https://github.com/apple/swift) 
 官方swift介绍<br>
+[WeChatSwift](https://github.com/alexiscn/WeChatSwift)<br>
+微信swift 5版本，功能比较完整 <br>
 [SwiftTips](https://github.com/JohnSundell/SwiftTips)<br>
 [U17](https://github.com/spicyShrimp/U17)<br>
 精仿有妖气漫画(Swift5)<br>
 [TodayNews](https://github.com/hutmobile/iOS_YangMeng_TodayNews) <br>
-Swift4 - 今日头条<br>
+Swift5 - 今日头条<br>
 [RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation)<br>
 RxSwift 中文文档<br>
 [swift-style-guide](https://github.com/eure/swift-style-guide)<br>
