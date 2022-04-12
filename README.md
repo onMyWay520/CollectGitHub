@@ -196,6 +196,8 @@ Swift基础知识大全,Swift学习从简单到复杂<br>
 老司机 iOS 周报<br>
 [andyRon](https://github.com/andyRon)/[swift-algorithm-club-cn](https://github.com/andyRon/swift-algorithm-club-cn)<br>
 swift版的算法，兼容swift4<br>
+[SecondsOpenH5](https://github.com/ljchen1129/SecondsOpenH5)<br>
+秒开 h5 页面的优化<br>
 # RN
 [react-native-guide](https://github.com/reactnativecn/react-native-guide) <br>
 React Native指南汇集了各类React-Native各类学习资源<br>
