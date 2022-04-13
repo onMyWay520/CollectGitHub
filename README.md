@@ -316,7 +316,9 @@ Vue.js 源码解析<br>
 [automation](https://github.com/liubobo/automation)code generator<br>
 [es6tutorial](https://github.com/ruanyf/es6tutorial)<br>
 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。<br>
-[skill-map](https://github.com/TeamStuQ/skill-map) <br>
+[TypeScript教程](https://github.com/JasonkayZK/typescript-learn)<br>
+商硅谷ts教程视频及其配套教程<br>
+[skill-map](https://github.com/TeamStuQ/skill-map) <br>
 程序员技能图谱<br>
 [Blog](https://github.com/mqyqingfeng/Blog)<br>
 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。<br>
