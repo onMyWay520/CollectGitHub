@@ -298,6 +298,7 @@ flutter开源项目<br>
 dev-tips是一个开发中常见问题的收集和整理，包含.net,ios,android,开发环境,flex,web,数据库,react native,html,js,ide,svn,git,等等，这些都是我在开发过程是实际遇到过的问题收集和整理。<br>
 [study-notes](https://github.com/tsrot/study-notes) <br>
 WEB前端学习笔记和感悟 <br>
+[人人贷大前端技术博客中心](https://github.com/rrd-fe/blog) <br>
 [imooc-promise-sample](https://github.com/merrier/imooc-promise-sample)<br>
 幕课网Promise入门视频源码 <br>
 [guodongxiaren / ](https://github.com/guodongxiaren/README)[README](https://github.com/guodongxiaren/README) <br>
